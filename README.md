@@ -1,8 +1,6 @@
 Credit integration/staging tree
 ================================
 
-http://www.credit.org
-
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
 
